@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refine Plan"
+  short_description: "Tighten an ExecPlan through bounded passes"
+  default_prompt: "Use $refine-plan to strengthen this ExecPlan in place and surface any scope-level gaps before implementation."

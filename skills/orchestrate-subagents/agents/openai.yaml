@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orchestrate Subagents"
+  short_description: "Plan and delegate code work across agents"
+  default_prompt: "Use $orchestrate-subagents to break this project into parallel subagent tasks and integrate the results."

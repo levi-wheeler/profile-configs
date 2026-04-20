@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Handoff"
+  short_description: "Explicit shared handoff file workflow"
+  default_prompt: "Use this only when I explicitly invoke handoff behavior; write/read/clear the shared handoff file safely."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "ExecPlan"
+  short_description: "Author and maintain execution plans"
+  default_prompt: "Use $execplan to create or update an execution plan for this task."
